@@ -4,7 +4,6 @@
 #include <assert.h>
 #include <vector>
 #include <functional>
-#include "edge.hpp"
 #include "node.hpp"
 
 
